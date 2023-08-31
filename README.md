@@ -1,13 +1,13 @@
 ### Hi there 👋  
 
-### <div align="center">I‘m Wishrem, a person who is striving to become a full-stack engineer. ✊</div>  
+### <div align="center">I‘m Wishrem, a person who is striving to become a software engineer. ✊</div>  
 
 
-- 💬 Language: English(almost mastered), 普通话(mother tongue), 日本語(learning).
+- 💬 Language: English, 普通话(mother tongue).
 
 - 🌱 I’m currently learning SE coures.  
 
-- ⚡ Hobbies: watching anime, working on personal projects, and talking with people I care about  
+- ⚡ Hobbies: watching anime, working on personal projects, and talking with people I care about.
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wishrem&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="Wishrem's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wishrem&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8&hide=HTML,CSS" /> |
 | ------------- | ------------- |
