@@ -1,11 +1,9 @@
 ### Hi there 👋  
 
-### <div align="center">I‘m Wishrem, a person who is striving to become a software engineer. ✊</div>  
+### <div align="center">I‘m Wishrem, a person who is striving to become a 码农.</div>  
 
 
 - 💬 Language: English, 普通话(mother tongue).
-
-- 🌱 I’m currently learning SE coures.  
 
 - ⚡ Hobbies: watching anime, working on personal projects, and talking with people I care about.
 
